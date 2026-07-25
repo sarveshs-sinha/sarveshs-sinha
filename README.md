@@ -102,7 +102,7 @@ const Sarvesh = {
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00c749&reversal=false&textBg=false&descAlignY=44&descAlign=32&section=footer" width="100%"/>
 
 
-* Thanks for visiting! Feel free to explore my repositories and connect with me! * 
+Thanks for visiting! Feel free to explore my repositories and connect with me!
 
 
 </div>
