@@ -16,6 +16,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-sinha-b98621288/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sarveshsinha18@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/your-username/portfolio/blob/main/Resume.pdf)
 </div>
 
 <div align="center">
