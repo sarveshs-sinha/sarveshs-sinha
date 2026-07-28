@@ -16,7 +16,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-sinha-b98621288/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sarveshsinha18@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-F3E8FF?style=for-the-badge&logo=readme&logoColor=7C3AED&labelColor=F3E8FF)]([YOUR_PDF_LINK_HERE](https://go.fliplink.me/view/2C3B4E56-A0CB-43C5-BDC8-BFF58A4445D6))
+[![Resume](https://img.shields.io/badge/Resume-F3E8FF?style=for-the-badge&logo=readme&logoColor=7C3AED&labelColor=F3E8FF)](https://go.fliplink.me/view/2C3B4E56-A0CB-43C5-BDC8-BFF58A4445D6)
 </div>
 
 <div align="center">
