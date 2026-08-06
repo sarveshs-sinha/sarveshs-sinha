@@ -5,7 +5,7 @@
 </p>
 
 
-### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | AI / ML | 𝐃ata Science
+### 🚀 𝐁.𝐓𝐞𝐜𝐡 𝐂𝐒𝐄 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 | AI / ML | 𝐃ata Analyst
 
 </div>
 
