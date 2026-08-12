@@ -98,7 +98,7 @@ const Sarvesh = {
   <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1A1A1A,100:2C3E50&text=श्रीरामदूताय%20नमः%20|%20शिवाय%20नमः%20|%20विष्णवे%20नमः।&fontSize=24&fontColor=FFD700&animation=twinkling" />
 </p>
 
-> ### 🙏 Trust God's Timing...
+> ### 🙏 Trust God's Timing....
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00c749&reversal=false&textBg=false&descAlignY=44&descAlign=32&section=footer" width="100%"/>
 
