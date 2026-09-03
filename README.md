@@ -1,7 +1,8 @@
 <div align="center" >
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00c749&text=Sarvesh%20Sinha&animation=scaleIn&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=37" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sarvesh%20Sinha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20NLP%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+
 </p>
 
 
